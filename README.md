@@ -1,4 +1,4 @@
-# Emg_data_analysis
+# EEG_data_analysis
 
   - This is intended to familiarize with biological data and (eventually) refresh basic 
 skills such as informative plotting and infer information from data. 
